@@ -15,4 +15,7 @@ I am a Mechatronics Engineer with a strong foundation in programming and a deep 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JoseDevLab&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JoseDevLab&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
